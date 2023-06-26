@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3dc3a8f-d490-4b7c-b198-2f4a69426dd2" name="Changes" comment="Heaps (Insert)">
-      <change afterPath="$PROJECT_DIR$/src/academy/learningprogramming/maxheaps/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learningprogramming/maxheaps/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learningprogramming/maxheaps/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learningprogramming/maxheaps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learningprogramming/maxheaps/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687766335634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Heaps (Insert)">
+      <created>1687771735834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687771735834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
